@@ -7,8 +7,6 @@
 # Quem é o Lucas?  🤔 
 Paulistano e apaixonado por tecnologia, tenho domínio em desenvolvimento de API, (Spring Framework), front-end (Angular Framework) e banco de dados relacionais (MySQL). Também sou estudante de desenvolvimento Java na Generation Brasil.
 
-Apaixonado também por comunicação, tenho seis anos de experiência comercial em segmentos como prospecção, suporte, onboarding, cobrança e relacionamento com clientes e sou formado em comunicação social e habilitado em publicidade e propaganda pela Universidade Nove de Julho - UNINOVE - SP.
-
  
  # Tecnologias 💻
 ![Java](https://camo.githubusercontent.com/e17e119d8c9bb34ac9710be65d35d52a7e04cc260476760305525204df5f34b0/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4a6176612d3030373339363f7374796c653d666c61742d737175617265266c6f676f3d6a617661)
