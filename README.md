@@ -1,6 +1,6 @@
 # Olá! Sejam bem vindxs! 🤩
 
-- 🚀 Bootcamp Generation Brasil - Desenvolvedora Web Full Stack
+- 🚀 Bootcamp Generation Brasil - Desenvolvedor Web Full Stack
 - 🐓 Graduado em Comunicação Social e habilitado em Oublicidade e Propaganda
 - 📫 Você pode me encontrar nas redes:[![Github](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/lucasspereira)](https://github.com/lucasspereira) [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vittoria-borotto/)](https://www.linkedin.com/in/lcspereira/)
  
