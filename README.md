@@ -2,8 +2,8 @@
 
 - 🚀 Bootcamp Generation Brasil - Desenvolvedor Web Full Stack
 - 🐓 Graduado em Comunicação Social e habilitado em Publicidade e Propaganda
-- 📫 Além daqui, tenho outras redes:[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vittoria-borotto/)](https://www.linkedin.com/in/lcspereira/)
-- [![Instagram](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.instagram.com/in/vittoria-borotto/)](https://www.instagram.com/upluka/)
+- [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vittoria-borotto/)](https://www.linkedin.com/in/lcspereira/)
+
  
  # Technologies 💻
 ![Java](https://camo.githubusercontent.com/e17e119d8c9bb34ac9710be65d35d52a7e04cc260476760305525204df5f34b0/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4a6176612d3030373339363f7374796c653d666c61742d737175617265266c6f676f3d6a617661)
