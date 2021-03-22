@@ -32,11 +32,16 @@ Paulistano e apaixonado por tecnologia, tenho domínio em desenvolvimento de API
 <p align="center"> 
 
  ## Total de Visitas no perfil :detective: <br>
+ 
+ 
  <p align="center"> 
    <img alingn="center" src="https://profile-counter.glitch.me/lucasspereira/count.svg" />
  </p>
 
 </p>
+
+
+
 
 ## Contact :iphone:
  
