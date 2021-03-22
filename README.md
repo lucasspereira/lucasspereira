@@ -1,8 +1,8 @@
 # Olá! Sejam bem vindxs! 🤩
 
 - 🚀 Bootcamp Generation Brasil - Desenvolvedor Web Full Stack
-- 🐓 Graduado em Comunicação Social e habilitado em Publicidade e Propaganda
-- [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vittoria-borotto/)](https://www.linkedin.com/in/lcspereira/)
+- 🎓  Graduado em Comunicação Social e habilitado em Publicidade e Propaganda
+- 💙 Interesse: Java, Spring Boot, HTML, CSS, JavaScript, Angular, NodeJs.
 
 # Quem é o Lucas?  🤔 
 Paulistano e apaixonado por tecnologia, tenho domínio em desenvolvimento de API, (Spring Framework), front-end (Angular Framework) e banco de dados relacionais (MySQL). Também sou estudante de desenvolvimento Java na Generation Brasil.
@@ -24,3 +24,17 @@ Paulistano e apaixonado por tecnologia, tenho domínio em desenvolvimento de API
  
  <img align="left"  width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasspereira&layout=compact&theme=c9cacc&icon_color=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
  <img align="right" width="400px" src="https://github-readme-stats.vercel.app/api?username=lucasspereira&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+ 
+## Contact :iphone:
+
+<p align="center">
+    <a href="https://github.com/lucasspereira">
+        <img  src="https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white&link=mailto:https://github.com/lucasspereira">
+    </a>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="mailto:pereira.lucas23@gmail.com">
+        <img src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white&link=mailto:pereira.lucas23@gmail.com">
+    </a>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://www.linkedin.com/in/lcspereira/">
+        <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&link=mailto:https://www.linkedin.com/in/lcspereira/">
