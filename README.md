@@ -27,9 +27,9 @@ Paulistano e apaixonado por tecnologia, tenho domínio em desenvolvimento de API
  
  
 
+<br><br>
 
-
-<p> 
+<p>
 
  ## Total de Visitas no perfil :detective: <br>
  
