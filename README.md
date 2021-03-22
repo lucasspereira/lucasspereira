@@ -23,10 +23,11 @@ Paulistano e apaixonado por tecnologia, tenho domínio em desenvolvimento de API
  
 
 
-## Contact :iphone:
+
  
  
 <p align="center">
+ ## Contact :iphone:
     <a href="https://github.com/lucasspereira">
         <img  src="https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white&link=mailto:https://github.com/lucasspereira">
     </a>
