@@ -25,6 +25,8 @@ Paulistano e apaixonado por tecnologia, tenho domínio em desenvolvimento de API
  <img align="left"  width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasspereira&layout=compact&theme=c9cacc&icon_color=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
  <img align="right" width="400px" src="https://github-readme-stats.vercel.app/api?username=lucasspereira&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
  
+ 
+ 
 # Contato 📲
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <p align="center">
