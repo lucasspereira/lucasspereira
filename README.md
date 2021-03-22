@@ -26,6 +26,31 @@ Paulistano e apaixonado por tecnologia, tenho domínio em desenvolvimento de API
  <img align="right" width="400px" src="https://github-readme-stats.vercel.app/api?username=lucasspereira&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
  
  
+ ## Contact :iphone:
+
+<p align="center">
+    <a href="https://github.com/lucasspereira">
+        <img  src="https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white&link=mailto:https://github.com/lucasspereira">
+    </a>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="mailto:pereira.lucas23@gmail.com">
+        <img src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white&link=mailto:pereira.lucas23@gmail.com">
+    </a>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://www.linkedin.com/in/lcspereira/">
+        <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&link=mailto:https://www.linkedin.com/in/https:/www.linkedin.com/in/lcspereira/">
+    </a>
+</p>
+
+<p align="center"> 
+
+ ## Total de Visitas no perfil :detective: <br>
+ <p align="center"> 
+   <img alingn="center" src="https://profile-counter.glitch.me/lucasspereira/count.svg" />
+ </p>
+
+</p>
+ 
  
 
 
