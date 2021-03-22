@@ -39,3 +39,4 @@ Paulistano e apaixonado por tecnologia, tenho domínio em desenvolvimento de API
     
     <a href="https://www.linkedin.com/in/lcspereira/">
         <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&link=mailto:https://www.linkedin.com/in/lcspereira/">
+</a>
