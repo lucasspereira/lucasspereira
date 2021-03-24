@@ -1,4 +1,4 @@
-# Olá! Sejam bem vindxs! 🤩
+# Hey! Sejam bem vindxs! 🤩
 
 - 🚀 Bootcamp Generation Brasil - Desenvolvedor Web Full Stack
 - 🎓  Graduado em Comunicação Social e habilitado em Publicidade e Propaganda
