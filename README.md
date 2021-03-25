@@ -4,7 +4,7 @@
 - 🎓  Graduado em Comunicação Social e habilitado em Publicidade e Propaganda
 - 💙 Interesse: Java, Spring Boot, HTML, CSS, JavaScript, Angular, NodeJs.
 
-# Quem é o Lucas?  🤔 
+📌
 Paulistano e apaixonado por tecnologia, tenho domínio em desenvolvimento de API, (Spring Framework), front-end (Angular Framework) e banco de dados relacionais (MySQL). Também sou estudante de desenvolvimento Java na Generation Brasil.
 
  
