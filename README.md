@@ -1,7 +1,7 @@
 # Hey! Sejam bem vindxs! 🤩
 
+- ❤️ Um navegante no mar da tecnologia
 - 🚀 Bootcamp Generation Brasil - Desenvolvedor Web Full Stack
-- 🎓  Graduado em Comunicação Social e habilitado em Publicidade e Propaganda
 - 💙 Interesse: Java, Spring Boot, HTML, CSS, JavaScript, Angular, NodeJs.
 
  
