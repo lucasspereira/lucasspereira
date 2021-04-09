@@ -1,4 +1,4 @@
-# Hey! Sejam bem vindxs! 🤩
+# Hey! Bem vindxs! 🤩
 
 - ❤️ Sou o Lucas: um navegante nesse marzão da tecnologia
 - 🚀 Bootcamp Generation Brasil - Desenvolvedor Web Full Stack
