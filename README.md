@@ -1,6 +1,6 @@
 # Hey! Bem vindxs! 🤩
 
-- ❤️ Sou o Lucas: um navegante nesse marzão da tecnologia
+-  💻 Sou o Lucas: um navegante nesse marzão da tecnologia
 - 🚀 Bootcamp Generation Brasil - Desenvolvedor Web Full Stack
 - 💙 Interesse: Java, Spring Boot, HTML, CSS, JavaScript, Angular, NodeJs.
 
