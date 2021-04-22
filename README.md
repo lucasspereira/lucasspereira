@@ -1,8 +1,7 @@
 # Hey! Bem vindxs! 🤩
 
 -  💻 Sou o Lucas: um navegante nesse marzão da tecnologia
-- 🚀 Desenvolvimento Web Full Stack Jr
-- 💙 Interesses: Angular & Java
+- 🚀 Desenvolvimento Web Jr
 
  
  # Tecnologias 💻
