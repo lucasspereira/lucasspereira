@@ -1,7 +1,7 @@
 # Hey! Bem vindxs! 🤩
 
 -  💻 Sou o Lucas: um navegante nesse marzão da tecnologia
-- 🚀 Desenvolvimento Web Jr
+- 🚀 Analista de Sistemas Jr
 
  
  # Tecnologias 💻
